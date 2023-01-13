@@ -1,0 +1,12 @@
+.Nav {
+  box-shadow: 10px 5px 5px rgb(233, 231, 231);
+  height: 50px;
+  width: auto;
+}
+
+.Nav img {
+  width: 90px;
+  height: 26px;
+  display: block;
+  margin: 1.5rem 2rem;
+}
