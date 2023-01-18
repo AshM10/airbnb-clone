@@ -1,7 +1,7 @@
 .Nav {
-  box-shadow: 10px 5px 5px rgb(233, 231, 231);
-  height: 50px;
-  width: auto;
+  box-shadow: 0px 2px 7.5px rgba(0, 0, 0, 0.1);
+  height: 70px;
+  display: flex;
 }
 
 .Nav img {
