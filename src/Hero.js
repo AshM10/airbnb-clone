@@ -3,7 +3,7 @@ import "./Hero.css";
 
 export default function Hero() {
   return (
-    <div className="Hero">
+    <section className="Hero">
       <img
         src={Grid}
         alt="Fun and mindful activities"
@@ -14,6 +14,6 @@ export default function Hero() {
         Join unique interactive activities led by one-of-a-kind hosts - all
         without leaving home.
       </p>
-    </div>
+    </section>
   );
 }
