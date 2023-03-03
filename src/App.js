@@ -1,5 +1,6 @@
 import Nav from "./Nav";
 import Hero from "./Hero";
+import Card from "./Card";
 import "./App.css";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <Nav />
       <Hero />
+      <Card />
     </div>
   );
 }
